@@ -1,0 +1,61 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.ncb
+*.aps
+*.vbw
+*.obj
+*.pdb
+*.pch
+*.res
+*.idb
+*.manifest
+*.cache
+*.ilk
+*.log
+*.dll
+*.exe
+
+# ReSharper files
+_ReSharper*/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+bin/
+[Bb]inaries/
+[Nn]ode_modules/
+*.map
+
+# NuGet packages
+*/packages/*
+*.nupkg
+*.pupkg
+*.snupkg
+
+# Publish profiles
+*.pubxml
+*.pubxml.user
+*.azurePubxml
+*.azurePubxml.user
+*.smprofile
+*.smprofile.user
+
+# Other files
+[Tt]humbs.db
+*.DS_Store
+*.docstates.suo
+*.docstates.xml
+*.userprefs
+*.CodeMaid.user
+*.sln.ide
+*.sln.dotSettings
+*.userosscache
+*.browser
+*.vshost.exe
+*.resharper.user
+*.resharper.*
+*.VisualState.xml
